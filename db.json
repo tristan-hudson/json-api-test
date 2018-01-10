@@ -1,0 +1,46 @@
+{
+ "templates": 
+	[
+  {
+    "id": "1",
+    "customerId": null,
+    "fileName": "File Name 1",
+    "fullPath": null,
+    "uri": null,
+    "friendlyName": null,
+    "documentType": null,
+    "tags": null,
+    "category": null,
+    "contentType": null,
+    "fileSize": 0,
+    "mergedFromTemplateId": null,
+    "retrieveTimestamp": null,
+    "isTemplate": false,
+    "partitionKey": "CUST_00000001_TEMPLATES_CAT_UNDEFINED",
+    "rowKey": "1",
+    "timestamp": "2018-01-06T13:05:25.127+00:00",
+    "eTag": "W/\"datetime'2018-01-06T13%3A05%3A25.127Z'\""
+  },
+  {
+    "id": "2",
+    "customerId": null,
+    "fileName": "File Name 2",
+    "fullPath": null,
+    "uri": null,
+    "friendlyName": null,
+    "documentType": null,
+    "tags": null,
+    "category": null,
+    "contentType": null,
+    "fileSize": 0,
+    "mergedFromTemplateId": null,
+    "retrieveTimestamp": null,
+    "isTemplate": false,
+    "partitionKey": "CUST_00000001_TEMPLATES_CAT_UNDEFINED",
+    "rowKey": "2",
+    "timestamp": "2018-01-06T13:05:35.813+00:00",
+    "eTag": "W/\"datetime'2018-01-06T13%3A05%3A35.813Z'\""
+  }
+]
+	
+}
